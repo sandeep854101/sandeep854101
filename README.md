@@ -4,9 +4,9 @@
 <img align="right" width="400" src="https://i.pinimg.com/originals/d4/81/f3/d481f3c72e283309071f79e01b05c06d.gif"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep854101&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep854101" /> </p>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **Machine Learning**
 
-- 💬 Ask me about **react,html,css,js**
+- 💬 Ask me about **react, Express, Node, html, css, js**
 
 - 📫 How to reach me **sandeep854101@gmail.com**
 
